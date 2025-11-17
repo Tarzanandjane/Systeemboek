@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" font-family="Arial, sans-serif" font-size="14">
+  <!-- Achtergrond -->
+  <rect width="100%" height="100%" fill="#ffffff"/>
+
+  <!-- Titel -->
+  <text x="20" y="30" font-size="18" font-weight="bold">Relaystructuur na 1♦</text>
+
+  <!-- Kolomtitels -->
+  <text x="20" y="60" font-weight="bold">Bod</text>
+  <text x="200" y="60" font-weight="bold">Betekenis</text>
+
+  <!-- Rijen -->
+  <text x="20" y="90">1♦</text>
+  <text x="200" y="90">11–15 HCP, 4+♦, geen 5M</text>
+
+  <text x="40" y="120">1♥</text>
+  <text x="200" y="120">Relay, partner beschrijft hand</text>
+
+  <text x="40" y="150">1♠</text>
+  <text x="200" y="150">4♠, 11–13 HCP</text>
+
+  <text x="40" y="180">1NT</text>
+  <text x="200" y="180">Geen 4-kaart major, 11–13 HCP</text>
+
+  <text x="40" y="210">2♣</text>
+  <text x="200" y="210">Sterk, 14–15 HCP → relay volgt</text>
+
+  <text x="40" y="240">2♦</text>
+  <text x="200" y="240">5+♦, 14–15 HCP</text>
+
+  <text x="40" y="270">2♥</text>
+  <text x="200" y="270">4♥, 14–15 HCP</text>
+
+  <text x="40" y="300">2♠</text>
+  <text x="200" y="300">4♠, 14–15 HCP</text>
+
+  <!-- Relay na 2♣ -->
+  <text x="60" y="330">2♦*</text>
+  <text x="200" y="330">Relay na sterk 2♣</text>
+
+  <text x="80" y="360">2♥</text>
+  <text x="200" y="360">5+♣</text>
+
+  <text x="80" y="390">2♠</text>
+  <text x="200" y="390">5+♦</text>
+
+  <text x="80" y="420">2N
